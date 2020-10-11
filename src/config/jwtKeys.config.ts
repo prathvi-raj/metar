@@ -1,0 +1,44 @@
+export const jwtConfig: any = {
+    privateKey : 'pe',
+    publicKey : 'dsa',
+};
+
+/*
+
+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
+
+*/
